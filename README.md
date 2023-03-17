@@ -1,4 +1,4 @@
-# AutoClicker_L2_Fatal
+# AutoClicker_L2_Fatal_Lazarus
 Автокликер для Lineage II и тп для клавишь от F1 до F12
 Исходник на Lazarus
 
